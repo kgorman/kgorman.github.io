@@ -12,6 +12,7 @@ tags:
   - Python
 ---
 I decided to start futzing with Python and Oracle. I generally use perl for most everything, and sometimes php for web based things, but I wanted to try Python at the urging of colleagues. I downloaded the source from [here](http://www.python.org/download/) and added in cx_Oracle from [here](http://sourceforge.net/projects/cx-oracle/). The installation on linux was about as smooth as possible. I installed the source @ ~oracle/python so I could keep a user space version of Python. This is similar to how I generally install perl. So I created my first application using Python, ```select * from dual;```. No big deal, but wow, Python is a pretty straightforward language. Here are some resources for Oracle based code:  
+
 - [IOUG Paper](http://www.ioug.org/python.pdf)
 - [The Oracle Docs](http://www.python.net/crew/atuining/cx_Oracle/html/cx_Oracle.html)
 
