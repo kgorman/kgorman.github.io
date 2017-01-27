@@ -3,6 +3,7 @@ title: Displaying JSON in psql
 author: kgorman
 comments: true
 layout: post
+image: images/json_in_psql.jpg
 categories:
 - PostgreSQL
 ---
