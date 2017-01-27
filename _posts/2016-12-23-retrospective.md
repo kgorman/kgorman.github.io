@@ -20,3 +20,5 @@ At Eventador we spent a good portion of this year building out a kick ass real t
 We have moved offices from the South Lamar area of Austin to right downtown on 6th and Congress at WeWork. We have kept the team small so we can be nimble and we plan to [grow](http://www.eventador.io/joinus.html) in the coming year.
 
 From a technology perspective this year has been crazy. We have seen a huge ramp up in interest in real time data processing. Companies are realizing that products that use data in real time can be more compelling to customers. So they need data and they need it fast. This is driving an interest in enabling technologies like Eventador. Technologies like Kafka, Samza, Storm, Spark, AWS Kinesis are on a tear.
+
+So here's to 2017, may it be the raddest year yet.
