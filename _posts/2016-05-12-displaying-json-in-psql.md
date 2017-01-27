@@ -9,6 +9,8 @@ categories:
 
 Over the last few releases, PostgreSQL has developed awesome JSON functionality inside the database. That said, every once in a while you want to simply display that JSON in psql for easy viewing, working out a query, copying it to your buffer, etc. In 9.5 jsonb_pretty was included to solve this need.
 
+<!--more-->
+
 Here is a real quick tip for how use it in psql:
 
 ```sql

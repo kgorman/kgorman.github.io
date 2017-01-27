@@ -7,6 +7,8 @@ layout: post
 
 It's a pretty common question these days for folks to ask the difference in real world storage footprint between various compression schemes in [TokuMX](http://en.wikipedia.org/wiki/TokuMX), as well as compared to [MongoDB](http://en.wikipedia.org/wiki/MongoDB). So thought I would do a quick comparison and post the results.
 
+<!--more-->
+
 It should be noted that these tests are just pure storage footprint tests. This is not a comparison of the run time performance of each option. Each compression setting comes with a set of tradeoffs I will try to enumerate in a follow up post.
 
 ## Background

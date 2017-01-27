@@ -12,6 +12,8 @@ I had the privilege to be on the [Partially Derivative](http://www.partiallyderi
 
 <iframe style="border: solid 1px #dedede;"  src="http://app.stitcher.com/splayer/f/58433/37959345" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
+<!--more-->
+
 I was impressed by how professional Jonathon and Chris are. Even with a couple of technical glitches they got the show out the door. Myself being a bit of a newbie maybe I talked too much, but man, the topics where so interesting I couldn't help myself! I particularly loved the bit about the 'Moneyball' revolution and middle school kids. Of course [Ashley](https://twitter.com/ashleymcnamara) was an absolute riot.
 
 Sadly, I didn't get any pictures of the rasberry-pi-kegerator just yet, it's been raining crazy here in TX. Stay tuned. I did however, and you will get this when you listen to the podcast, compile the list of beers we drank in CSV format here:

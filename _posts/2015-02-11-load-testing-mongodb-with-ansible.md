@@ -10,6 +10,8 @@ categories:
 
 In the last few months I have spent a lot of time load testing MongoDB for various reasons. From testing compression ratios in TokuMX and hardware platforms for ObjectRocket/Rackspace to various storage engines in the new MongoDB 3.0 release. My new role has me making lots of opinions about various things, and I like to be data and fact driven about them.
 
+<!--more-->
+
 I needed a simple framework to automate the testing. I needed a way to ensure that I could run some tests, change some configurations or systems, and re-run the tests in a simple way.
 
 Ansible + sysbench-mongodb to the rescue

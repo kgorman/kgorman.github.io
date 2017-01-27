@@ -9,6 +9,8 @@ name: Kenny Gorman
 description: The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits
 url: http://www.kennygorman.com
 
+excerpt_separator: <!--more-->
+
 # Permalinks
 permalink:        pretty
 baseurl:          /
@@ -18,7 +20,7 @@ author:
   name:           'Kenny Gorman'
   url:            https://twitter.com/kgorman
 
-paginate:         5
+paginate:         12
 
 markdown:         kramdown
 highlighter:      rouge

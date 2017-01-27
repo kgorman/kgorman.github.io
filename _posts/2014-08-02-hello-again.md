@@ -7,6 +7,8 @@ It's been about 8 years since I began blogging, and today it's time for a change
 
 For most of these 8 years I have been using Wordpress for my blog backend. It's been a fun ride, but I have fallen in love with a new platform. The reason is pretty simple, but first a little background. While I was playing with my Wordpress setup for the 99,999th time I was pondering, why can't I just use Git for this stuff? Better yet Github. Why is this so tough? Why can't I just get a simple 'developer feeling' blog theme, and edit it like I do code every day? Why can't I just use straight markdown?
 
+<!--more-->
+
 John Moore, one of our insanely talented Customer Data Engineers and pretty damn clever Developer told me about Jekyll. He said:
 
 ![screenshot]({{ site.url }}/images/moore-jekyll.png)

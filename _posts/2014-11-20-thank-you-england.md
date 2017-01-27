@@ -3,6 +3,7 @@ title: Thank you England and WTF Big Data.
 author: kgorman
 comments: true
 layout: post
+image: images/london.png
 categories:
   - MongoDB
   - Hadoop
@@ -11,7 +12,7 @@ categories:
 
 I am freshly back from the UK. What a great trip. I was in London for the Rackspace Unlocked event and the London MongoDB meetup. First off, the Rackspace Unlocked event was really nicely done. I have to tip my hat to [@Laurabpacheco](https://twitter.com/laurabpacheco) and the team for ensuring the event was fantastic.
 
-![london]({{ site.baseurl }}images/london.png)
+<!--more-->
 
 # Rackspace Unlocked #
 

@@ -12,6 +12,8 @@ Know what you are good at, and do that. Resist playing in areas where you don't 
 a lot of value, maximize your time and efforts around the things you do well. In essence
 double down on your talents, and leverage your passions.
 
+<!--more-->
+
 Roll back to January 2016, I had just left Rackspace. I had a fantastic position, a great
 boss, and was having a lot of fun. I had already stepped back from day to day responsibilities
 at ObjectRocket in favor of a position where I hoped to make maximum impact. Yet, I couldn't

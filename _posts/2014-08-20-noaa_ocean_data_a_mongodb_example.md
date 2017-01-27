@@ -2,12 +2,13 @@
 title: NOAA ocean data - A MongoDB example
 author: kgorman
 comments: true
+image: images/NOAA-smartbuoy.jpg
 layout: post
 ---
 
-![buoy]({{ site.baseurl }}images/NOAA-smartbuoy.jpg)
-
 I am a geek for public data sets. I stumbled across this data set and wanted to use it for a sample for testing, teaching, etc. It's a pretty cool example of a MongoDB use case, so I thought I would share.
+
+<!--more-->
 
 NOAA has been [gathering](http://tidesandcurrents.noaa.gov/) tide, current, and sea level data for quite a long time:
 

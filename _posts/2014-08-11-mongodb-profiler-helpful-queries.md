@@ -2,9 +2,14 @@
 layout: post
 title: MongoDB profiler helpful queries
 comments: true
+categories:
+- mongodb
+- performance
 ---
 
 I thought I would post up some useful queries to analyze profiler output. I created a [gist](https://gist.github.com/kgorman/134896c7414fde8e090b) on GitHub with some of them, and enumerated a couple of the more interesting ones in this post.
+
+<!--more-->
 
 ## Overview
 

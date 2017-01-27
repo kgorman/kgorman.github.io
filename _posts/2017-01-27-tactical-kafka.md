@@ -9,7 +9,11 @@ categories:
 - streaming data
 ---
 
-I wanted to share a quick piece on how to publish and subscribe JSON data with Apache Kafka using simple command line utilities. Here at [Eventador](http://www.eventador.io), we use this set of simple command line tools quite frequently. The command line is very useful for both testing and development, but also sampling your stream to understand the data inside it. The tools that we mostly use are:
+I wanted to share a quick piece on how to publish and subscribe JSON data with Apache Kafka using simple command line utilities. Here at [Eventador](http://www.eventador.io), we use this set of simple command line tools quite frequently. The command line is very useful for both testing and development, but also sampling your stream to understand the data inside it.
+
+<!--more-->
+
+The tools that we mostly use are:
 
 - [kafkacat](https://github.com/edenhill/kafkacat): A command line tool for interacting with Apache Kafka
 - [jq](https://stedolan.github.io/jq/): A command line JSON swiss-army knife

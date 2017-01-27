@@ -3,14 +3,14 @@ title: Percona Live Europe 2015
 author: kgorman
 comments: true
 layout: post
+image: images/amsterdam.jpg
 categories:
 - mongodb
 - mysql
 ---
-
-![pic]({{ site.baseurl }}images/amsterdam.jpg)
-
 I am very excited to be speaking at Percona Live in Amsterdam this year. In the last couple years I have been attending more and more Percona Live events and speaking at the conferences.
+
+<!--more-->
 
 What is exciting is these events are starting to morph into more of a polyglot persistence type conference with the addition of MongoDB content into the mix. It's only natural that more and more MongoDB content is presented at these conferences after the [acquisition](https://www.percona.com/percona-acquires-tokutek) of TokuTek by Percona earlier this year. Indeed, Percona is now offering support for MongoDB alongside MySQL.
 

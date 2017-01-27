@@ -8,6 +8,10 @@ categories:
 - eventador
 ---
 
-I had a great time speaking with Brett Piatt on [CyberTalk Radio](https://www.cybertalkradio.com). We chatted about data security but also talked a bit about fundamentals and the history behind how we arrived at this place in technology. We also talked a bit about the [Kafka as a Service](http://www.eventador.io/) we built at Eventador.io. Here is the archive:
+I had a great time speaking with Brett Piatt on [CyberTalk Radio](https://www.cybertalkradio.com). We chatted about data security but also talked a bit about fundamentals and the history behind how we arrived at this place in technology. We also talked a bit about the [Kafka as a Service](http://www.eventador.io/) we built at Eventador.io.
+
+<!--more-->
+
+Here is the archive:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7R0JEZgwxM" frameborder="0" allowfullscreen></iframe>

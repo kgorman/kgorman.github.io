@@ -7,6 +7,8 @@ layout: post
 
 Circa spring 2010 Elliot Horowitz checked in [src/tools/stat.cpp](https://github.com/mongodb/mongo/blob/master/src/mongo/tools/stat.cpp). Mongostat was now part of the MongoDB distribution, but how did it get there? Whats the history behind it?
 
+<!--more-->
+
 To be fair, the idea for mongostat wasn't really mine. I had been using similar tools at various companies for years, so it was only natural to create a similar tool for MongoDB.
 
 Mongostat is very similar to an Oracle tool called freecon that was invented by [@eBayPoet](https://twitter.com/ebaypoet) at eBaY circa 2000 and was written in perl. Freecon has since gone through a few revisions and updates from various DBA's on the team (lots of smart dudes). The tool did the same stuff as you would expect, but with many more features to take advantage and expose the various nuances of Oracle. It was the go-to tool when I was at PayPal and eBay and I believe is still in use there.

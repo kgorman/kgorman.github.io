@@ -2,10 +2,13 @@
 title: Data storage technology choices, we live in great times
 author: kgorman
 comments: true
+image: images/great_times.jpg
 layout: post
 ---
 
 I was just finishing up posting my slides from a presentation I did at a venture firm here in Austin, Texas. I was presenting to a set of technology geeks and decision makers from various companies. The goal: how to select a datastore for their next project.
+
+<!--more-->
 
 Matt Kroll posted this on Twitter right as I finished:
 

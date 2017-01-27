@@ -3,6 +3,7 @@ title: Ansible for Database Management
 author: Kenny Gorman
 comments: true
 layout: post
+image: images/v8.jpg
 categories:
     - database management
     - tokumx
@@ -10,9 +11,9 @@ categories:
     - postgresql
 ---
 
-![v8]({{ site.baseurl }}images/v8.jpg)
-
 If you aren't already familiar with [Ansible](http://www.ansible.com), then I suggest you add it to your list of things to explore. Simply put, Ansible is an IT automation framework. But in my opinion, that description doesn't really elaborate properly on it's true power. Sure, there have been other automation platforms in the past, but they always seemed so crufty. I didn't love using them.
+
+<!--more-->
 
 Where Ansible really shines is the design of it's core construct; the playbook. A playbook is just that, an idempotent list of ordered tasks in a human readable format. Ansible makes it easy, and even fun to develop plays, roles and modules to automate your infrastructure.
 
