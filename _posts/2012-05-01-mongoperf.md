@@ -22,6 +22,8 @@ categories:
 ---
 Starting with [version 2.1](http://www.mongodb.org/downloads), MongoDB has a new utility called [Mongoperf](https://github.com/mongodb/mongo/blob/master/src/mongo/client/examples/mongoperf.cpp). Mongoperf is a great little utility for quickly testing the I/O performance of your system. I thought I would go over it a little bit.
 
+<!--more-->
+
 Mongoperf can be found in the bin directory of your 2.1+ MongoDB distribution. The utility is invoked with options to tell it how to perform a sample I/O run, and it gives output indicating the performance of your disk I/O subsystem. The utility generates random I/O over a single file. One great aspect of this utility is it accesses the I/O subsystem very much like MongoDB itself does. It uses the same [memory mapped files](http://en.wikipedia.org/wiki/Memory-mapped_file) interface just like MongoDB itself. Running the utility with --help outputs the various options for running. The utility takes a JSON document as input. Typically I like to store the various options in a .js file and emit that into stdin of the utility as such:  
 
 ```bash
