@@ -31,7 +31,7 @@ For this example, let's say we want to capture the current state of all of the p
 
 ## Publishing data
 
-To publish data you will first need to get a connect string for your Kafka cluster. In this case, of course, I use Eventador.io. Using the Eventador, [console](https://console.eventador.io/deployments) click on the deployment you want to publish to, then click the connections tab. Copy/Paste the connect string under 'Kafka Connections' into your code. You also want to ensure your ACL is open to your workstation, and you have a topic you want to publish to created. There is more info in the [getting started guide](https://eventador.github.io/documentation/getting_started_guide.html) on those things.
+To publish data you will first need to get a connect string for your Kafka cluster. In this case, of course, I use [Eventador.io](http://www.eventador.io). Using the Eventador, [console](https://console.eventador.io/deployments) click on the deployment you want to publish to, then click the connections tab. Copy/Paste the connect string under 'Kafka Connections' into your code. You also want to ensure your ACL is open to your workstation, and you have a topic you want to publish to created. There is more info in the [getting started guide](https://eventador.github.io/documentation/getting_started_guide.html) on those things.
 
 The CityBikes API returns JSON, so we simply pass that to kafkacat directly. The JSON has the following structure as returned from the API:
 
