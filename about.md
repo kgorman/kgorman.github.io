@@ -3,9 +3,11 @@ layout: page
 title: About
 ---
 
- Hello, my name is Kenny Gorman. I dig database systems, data, and development. I am a Founder at Eventador Labs in Austin TX. I was previously Chief Technologist; Data - Office of the CTO at Rackspace and Co-Founder of [ObjectRocket](http://www.objectrocket.com); a MongoDB as a Service.
+ Hello, my name is Kenny Gorman. I dig database systems, data, development and being an Entrepreneur.
 
-In 2012, ObjectRocket was acquired by [Rackspace](http://www.rackspace.com).
+ I am a Founder and CEO at [Eventador.io](http://www.eventador.io) in Austin TX. Where we are building the next generation of real-time data platforms using Apache Kafka.
+
+ I was previously Chief Technologist; Data - Office of the CTO at Rackspace and Co-Founder of [ObjectRocket](http://www.objectrocket.com); a MongoDB as a Service. In 2012, ObjectRocket was acquired by [Rackspace](http://www.rackspace.com).
 
 <h1>
     <a href="http://www.twitter.com/kennygorman"><span class='symbol'>&#xe286;</span></a>
@@ -32,3 +34,5 @@ The first [article](/images/2002_os_snapshots_for_backup.pdf) I wrote for NoCOUG
 I was [OCP](http://en.wikipedia.org/wiki/Oracle_Certification_Program) DBA in Oracle 8 a *long* time ago.
 
 I was previously a Mongodb Master.
+
+Here is some [press](/press)

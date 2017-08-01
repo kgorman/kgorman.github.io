@@ -19,7 +19,9 @@ title: Home
             <h1 class="post-title">
                 <a href="{{ post.url }}">{{ post.title }}</a>
             </h1>
-            <span class="post-date">{{ post.date | date_to_string }} by {{ post.author }}</span>
+            <span class="post-date">
+                {{ post.date | date_to_string }} by <a href="/about">{{ post.author }}</a> {% include read_time.html %} read time
+            </span>
         </div>
     </div>
 
