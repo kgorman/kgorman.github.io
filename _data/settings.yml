@@ -1,10 +1,10 @@
 basic_settings:
   site_title: kennygorman.com
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_tagline: The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits 
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
   overlay_opacity: 0.7
 
