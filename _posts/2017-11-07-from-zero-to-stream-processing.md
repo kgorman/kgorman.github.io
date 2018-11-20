@@ -3,6 +3,7 @@ title: From Zero to Stream Processing
 author: kgorman
 comments: true
 layout: post
+featured_image: images/markus-winkler-804041-unsplash.jpg
 categories:
 - flink
 - streaming data
