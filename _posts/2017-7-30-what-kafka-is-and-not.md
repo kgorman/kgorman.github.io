@@ -3,6 +3,7 @@ title: What is Apache Kafka? How is it similar to the databases you know and lov
 author: kgorman
 comments: true
 layout: post
+featured_image: images/markus-winkler-804041-unsplash.jpg
 categories:
 - kafka
 - streaming data
