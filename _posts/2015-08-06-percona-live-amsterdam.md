@@ -3,7 +3,7 @@ title: Percona Live Europe 2015
 author: kgorman
 comments: true
 layout: post
-image: images/amsterdam.jpg
+featured_image: images/amsterdam.jpg
 categories:
 - mongodb
 - mysql

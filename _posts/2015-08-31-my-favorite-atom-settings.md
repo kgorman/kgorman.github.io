@@ -3,7 +3,7 @@ title: My favorite Atom editor settings
 author: kgorman
 comments: true
 layout: post
-image: images/atom.png
+featured_image: images/atom.png
 categories:
 - Developers
 - Atom

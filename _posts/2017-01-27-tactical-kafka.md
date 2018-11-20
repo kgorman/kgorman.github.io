@@ -3,7 +3,7 @@ title: Tactical Command Line Kafka
 author: kgorman
 comments: true
 layout: post
-image: images/kafkacat_jq.jpg
+featured_image: images/kafkacat_jq.jpg
 categories:
 - kafka
 - streaming data

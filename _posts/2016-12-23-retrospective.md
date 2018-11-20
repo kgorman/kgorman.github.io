@@ -3,7 +3,7 @@ title: 2016 Retrospective
 author: kgorman
 comments: true
 layout: post
-image: images/2016-retrospective.jpg
+featured_image: images/2016-retrospective.jpg
 categories:
 - entrepreneurship
 - eventador
