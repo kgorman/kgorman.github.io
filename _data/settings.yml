@@ -1,10 +1,10 @@
 basic_settings:
   site_title: kennygorman.com
-  site_tagline: The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits 
+  site_tagline: The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
+  logo_image: /images/kg_homeaway.png
   logo_width: 200
   overlay_opacity: 0.7
 
@@ -12,12 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   grid_spacing: 10
@@ -37,7 +33,7 @@ social_settings:
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
-  medium_url: ''
+  medium_url: 'https://medium.com/@kennygorman'
   quora_url: ''
   amazon_url: ''
   apple_url: ''
