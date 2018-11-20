@@ -1,6 +1,6 @@
 basic_settings:
   site_title: kennygorman.com
-  site_tagline: <BR><BR>The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits
+  site_tagline: The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits
   favicon_image: /images/favicon.png
 
 header_settings:
