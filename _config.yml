@@ -1,49 +1,54 @@
-#
-# This file contains configuration flags to customize your site
-#
+site: Journal Jekyll Theme
 
-# Name of your site (displayed in the header)
-name: Kenny Gorman
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-# Short bio or description (displayed in the header)
-description: The love of Data, Database Engineering, Architecture, Entrepreneurship, and other assorted bits
-url: http://www.kennygorman.com
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
-excerpt_separator: <!--more-->
+markdown: kramdown
 
-# Permalinks
-permalink:        pretty
-baseurl:          /
-title: 		      kennygorman.com
-
-author:
-  name:           'Kenny Gorman'
-  url:            https://twitter.com/kgorman
-
-paginate:         12
-
-markdown:         kramdown
-highlighter:      rouge
 kramdown:
-    input: GFM
-    syntax_highlighter: rouge
-permalink: /:title
-
-# The release of Jekyll Now that you're using
-version: 3.3
-
-# Set the Sass partials directory, as we're using @imports
+  input: GFM
+  syntax_highlighter: rouge
+  
 sass:
-  sass_dir: _scss
-  style: :expanded # You might prefer to minify using :compressed
+  style: compressed
 
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-gems:
-    - jekyll-seo-tag
-    - jekyll-sitemap
-    - jekyll-paginate
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+  
