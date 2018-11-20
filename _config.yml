@@ -1,4 +1,11 @@
-site: Journal Jekyll Theme
+site: kennygorman.com
+name: Kenny Gorman
+url: http://www.kennygorman.com
+title: kennygorman.com
+baseurl: /
+author:
+  name: 'Kenny Gorman'
+  url: https://twitter.com/kgorman
 
 collections:
   pages:
