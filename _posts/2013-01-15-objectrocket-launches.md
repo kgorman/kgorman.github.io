@@ -3,7 +3,7 @@ title: ObjectRocket Launches
 author: kgorman
 layout: post
 permalink: objectrocket-launches
-image: images/objectrocket.jpg
+featured_image: images/objectrocket.jpg
 fave-post_views:
   - 64
 categories:

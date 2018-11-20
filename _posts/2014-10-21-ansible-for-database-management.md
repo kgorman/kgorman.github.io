@@ -3,7 +3,7 @@ title: Ansible for Database Management
 author: Kenny Gorman
 comments: true
 layout: post
-image: images/v8.jpg
+featured_image: images/v8.jpg
 categories:
     - database management
     - tokumx

@@ -2,7 +2,7 @@
 title: MongoDB Austin
 author: kgorman
 layout: post
-image: images/austin.jpg
+featured_image: images/austin.jpg
 permalink: mongodb-austin
 fave-post_views:
   - 44

@@ -3,7 +3,7 @@ title: Thank you England and WTF Big Data.
 author: kgorman
 comments: true
 layout: post
-image: images/london.png
+featured_image: images/london.png
 categories:
   - MongoDB
   - Hadoop

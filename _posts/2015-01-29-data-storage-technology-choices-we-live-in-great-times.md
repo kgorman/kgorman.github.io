@@ -2,7 +2,7 @@
 title: Data storage technology choices, we live in great times
 author: kgorman
 comments: true
-image: images/great_times.jpg
+featured_image: images/great_times.jpg
 layout: post
 ---
 
