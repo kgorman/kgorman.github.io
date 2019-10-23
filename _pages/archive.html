@@ -1,0 +1,22 @@
+---
+layout: page
+title: Archive
+featured_image: /images/inaki-del-olmo-NIJuEQw0RKg-unsplash.png
+---
+
+<section class="blog">
+
+	<div class="wrap">
+
+	{% for post in site.posts reversed %}
+
+		<p>
+			{{ post.date | date_to_string  }} &nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a>
+
+		</p>
+
+	{% endfor %}
+
+	</div>
+
+</section>
