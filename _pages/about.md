@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
+featured_image: /images/kg_flink_forward_berlin.png
 ---
 
- Hello, my name is Kenny Gorman. I dig database systems, data, development and being an Entrepreneur.
+ Hello, my name is Kenny Gorman. I dig database systems, data, streaming data, development and being an Entrepreneur. I love vi, python, vue.js, Java, Apache Flink, PostgreSQL, and yes, Oracle RDBMS.
 
- I am a Founder and CEO at [Eventador.io](http://www.eventador.io) in Austin TX. Where we are building the next generation of real-time data platforms using Apache Kafka.
+ I am a Founder and CEO at [Eventador.io](http://www.eventador.io) in Austin TX. Eventador.io is an enterprise-grade streaming data platform that allows you to write, deploy, and manage stream processing at massive scale.
 
  I was previously Chief Technologist; Data - Office of the CTO at Rackspace and Co-Founder of [ObjectRocket](http://www.objectrocket.com); a MongoDB as a Service. In 2012, ObjectRocket was acquired by [Rackspace](http://www.rackspace.com).
 
@@ -19,7 +20,9 @@ He is an active member in the PostgreSQL community and scaled Hi5 from just a fe
 
 He has been an active MongoDB community member, speaker, MongoDB evangelist, and now Mongo Master. In 2011 he formed the MongoDB as a Service provider ObjectRocket with colleagues from eBaY. ObjectRocket was acquired by Rackspace in 2012.
 
-Currently, Kenny is a Founder at Eventador.io, a streaming data service based on Apache Kafka. He is focused on building innovative data services to power the next generation of applications that must aggregate, mutate, filter, and join data in real time.
+He is active in the Apache Kafka and Apache Flink communities - speaking at conferences and participating in community events. SQLStreambuilder, Eventador's flagship product is built using Apache Flink.
+
+Currently, Kenny is a Founder at Eventador.io, a streaming data platform. He is focused on building innovative data services to power the next generation of applications that must aggregate, mutate, filter, and join data in real time.
 
 ### Links
 

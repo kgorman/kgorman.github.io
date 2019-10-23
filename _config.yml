@@ -13,7 +13,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -48,7 +48,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -58,4 +58,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  

@@ -3,7 +3,7 @@ title: PostgreSQL + Ansible one liners
 author: kgorman
 comments: true
 layout: post
-featured_image: images/matthew-smith-5935.jpg
+featured_image: /images/matthew-smith-5935.jpg
 categories:
 - postgresql
 - ansible

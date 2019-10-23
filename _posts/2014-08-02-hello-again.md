@@ -13,9 +13,9 @@ John Moore, one of our insanely talented Customer Data Engineers and pretty damn
 
 ![screenshot]({{ site.url }}/images/moore-jekyll.png)
 
-### Enter Jeykll
+### Enter Jekyll
 
-[Jeykll](http://jekyllrb.com/) is a framework that converts simple markdown into a blog made up of static HTML. It can be hosted seamlessly on Github using Github Pages and all the tooling and workflows that come along with Git and Github. But it's so much more simple and wonderful than that. The reasons I chose Jekyll boil down to:
+[Jekyll](http://jekyllrb.com/) is a framework that converts simple markdown into a blog made up of static HTML. It can be hosted seamlessly on Github using Github Pages and all the tooling and workflows that come along with Git and Github. But it's so much more simple and wonderful than that. The reasons I chose Jekyll boil down to:
 
 * Jekyll uses simple HTML files, no need for any LAMP stack components.
 * A developer look and feel, with a emphasis on wonderful typography, simple presentation, and code snippets!

@@ -2,7 +2,7 @@
 title: NOAA ocean data - A MongoDB example
 author: kgorman
 comments: true
-faetured_image: images/NOAA-smartbuoy.jpg
+faetured_image: /images/NOAA-smartbuoy.jpg
 layout: post
 ---
 

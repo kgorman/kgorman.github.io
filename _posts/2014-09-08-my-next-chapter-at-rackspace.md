@@ -3,7 +3,7 @@ title: My next chapter at Rackspace
 author: kgorman
 comments: true
 layout: post
-faetured_image: images/1869-Golden_Spike.jpg
+featured_image: /images/1869-Golden_Spike.jpg
 categories:
 - objectrocket
 ---
