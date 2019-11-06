@@ -9,7 +9,7 @@ categories:
 - atom
 ---
 
-When writing Javascript using Oracle [Nashorn](https://en.wikipedia.org/wiki/Nashorn_(JavaScript_engine)) - using the CLI program `jjs` is commonplace. If you are using Atom as your editor, you will need a few mods to be able to invoke jjs and run your javascript from inside the editor. Here is how.
+When writing Javascript using Oracle [Nashorn](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html) - using the CLI program `jjs` is commonplace. If you are using Atom as your editor, you will need a few mods to be able to invoke jjs and run your javascript from inside the editor. Here is how.
 
 <!-- more -->
 
