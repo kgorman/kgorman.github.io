@@ -3,15 +3,10 @@ title: Atom editor, Javascript and Nashorn
 author: kgorman
 comments: true
 layout: post
-categories:
-- nashorn
-- javascript
-- atom
+featured_image: /images/nashorn_atom.png
 ---
 
 When writing Javascript using Oracle [Nashorn](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html) using the CLI program jjs is commonplace. If you are using Atom as your editor, you will need a few mods to be able to invoke jjs and run your javascript from inside the editor. Here is how.
-
-<!--more-->
 
 Just a bit of quick background - when creating [Javascript User Functions](https://docs.eventador.io/sqlstreambuilder/ssb_user_functions/) for [Eventador SQLStreamBuilder](https://www.eventador.io) - the best practice is to use jjs to develop the functions before importing them into Eventador. If you are using Atom as your editor, you can run these functions from inside the editor.
 
@@ -39,4 +34,4 @@ exports.JavaScript = {
 - Save the file and restart Atom.
 - Open a javascript file, or type some javascript into the editor and select it. If there is a selection it will run the selection, if not, it will run the entire file. Hit `Cmd-I` and the results will be displayed in the editor console window.
 
-![nashorn](/images/nashorn_atom.png)
+![pic](/images/nashorn_atom.png)
