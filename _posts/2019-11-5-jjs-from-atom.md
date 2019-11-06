@@ -1,5 +1,5 @@
 ---
-title: Atom editor, Javascript and Nashorn
+title: Atom editor Javascript and Nashorn
 author: kgorman
 comments: true
 layout: post
