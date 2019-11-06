@@ -6,7 +6,7 @@ layout: post
 featured_image: /images/nashorn_atom.png
 ---
 
-When writing Javascript using Oracle [Nashorn](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html) using the CLI program jjs is commonplace. If you are using Atom as your editor, you will need a few mods to be able to invoke jjs and run your javascript from inside the editor. Here is how.
+When writing Javascript using Oracle [Nashorn](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html), using the CLI program jjs is commonplace. If you are using Atom as your editor, you will need a few mods to be able to invoke jjs and run your javascript from inside the editor. Here is how.
 
 Just a bit of quick background - when creating [Javascript User Functions](https://docs.eventador.io/sqlstreambuilder/ssb_user_functions/) for [Eventador SQLStreamBuilder](https://www.eventador.io) - the best practice is to use jjs to develop the functions before importing them into Eventador. If you are using Atom as your editor, you can run these functions from inside the editor.
 
