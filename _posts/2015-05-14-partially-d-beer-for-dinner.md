@@ -10,7 +10,8 @@ categories:
 
 I had the privilege to be on the [Partially Derivative](http://www.partiallyderivative.com/) podcast last week. I was turned on to these guys a month or two ago, and have been an addict ever since. A bunch of data nerds here in the ObjectRocket offices have also become addicts. I suspect it has something to do with the beautiful marriage between data and beer!
 
-<iframe style="border: solid 1px #dedede;"  src="http://app.stitcher.com/splayer/f/58433/37959345" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+<div data-bt-embed="https://player.backtracks.fm/partiallyderivative/partially-derivative/m/s1e22-beer-for-dinner"></div><script>(function(p,l,a,y,e,r,s){if(p[y]) return;if(p[e]) return p[e]();s=l.createElement(a);l.head.appendChild((s.async=p[y]=true,s.src=r,s))}(window,document,'script','__btL','__btR','https://player.backtracks.fm/embedder.js'))</script>
+
 
 <!--more-->
 
