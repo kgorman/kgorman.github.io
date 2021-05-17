@@ -6,7 +6,9 @@ featured_image: /images/kg_flink_forward_berlin.png
 
  Hello, my name is Kenny Gorman. I dig database systems, data, streaming data, development and being an Entrepreneur. I love vi, python, vue.js, Java, Apache Flink, PostgreSQL, and yes, Oracle RDBMS.
 
- I am a Founder and CEO at [Eventador.io](http://www.eventador.io) in Austin TX. Eventador.io is an enterprise-grade streaming data platform that allows you to write, deploy, and manage stream processing at massive scale.
+ At Cloudera I work on pushing the state of the art in Streaming SQL - at Eventador we brought SQL Stream Builder product to the market, and we continue to evolve and innovate with it on the various Cloudera Platforms.
+
+ I was the Co-founder and CEO at [Eventador.io](http://www.eventador.io) in Austin TX. Eventador.io is an enterprise-grade streaming data platform that allows you to write, deploy, and manage stream processing at massive scale. Eventador was [acquired in 2020](https://blog.cloudera.com/cloudera-acquires-eventador-to-accelerate-stream-processing-in-public-hybrid-clouds/) by Cloudera Inc.
 
  I was previously Chief Technologist; Data - Office of the CTO at Rackspace and Co-Founder of [ObjectRocket](http://www.objectrocket.com); a MongoDB as a Service. In 2012, ObjectRocket was acquired by [Rackspace](http://www.rackspace.com).
 
