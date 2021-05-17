@@ -16,8 +16,6 @@ tags:
   - postgresql
   - vxfs
 ---
-[<img src="http://www.kennygorman.com/wordpress/wp-content/uploads/2008/12/c012156172.jpg" alt="" title="c012156172" width="300" height="122" class="alignnone size-medium wp-image-296" />][1]
-
 The [debate about][2] the optimum shared_buffers size in PostgreSQL is clearly far from over. However, I have not seen any results where the buffer cache and the FS cache were tuned in unison.
 
 Because PostgreSQL knows what buffers are in use, and knows when to flush the dirty buffers it is ideal to use as much of it as possible. Using an secondary cache (the FS) as in a &#8216;traditional&#8217; PostgreSQL configuration, just introduces more workload in the system. The secondary cache needs a process to wake up and flush the buffers ([pdflush][3]), and also has to manage it&#8217;s own LRU, and likely has many duplicate buffers sitting there wasting your precious RAM.
